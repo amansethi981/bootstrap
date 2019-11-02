@@ -1,0 +1,22 @@
+
+
+@media only screen and (max-width:1200px){
+    body{
+        font-size: 80%;
+    }
+}
+
+@media only screen and (max-width:800px){
+    .para2,.pic,.country,.rupee,.navigation{
+        display: block;
+        margin-left:auto;
+        
+    }
+    .active{
+        display: none;
+    }
+    header{
+        background-repeat: no-repeat;
+          
+    }
+}
